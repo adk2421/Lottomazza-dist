@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Lottomazza-dist/static/css/main.3e423b6f.css",
-    "main.js": "/Lottomazza-dist/static/js/main.bf55fa09.js",
-    "static/js/453.39dbe2b0.chunk.js": "/Lottomazza-dist/static/js/453.39dbe2b0.chunk.js",
+    "main.css": "/Lottomazza-dist/static/css/main.9b474f9a.css",
+    "main.js": "/Lottomazza-dist/static/js/main.4c29107e.js",
+    "static/js/453.f40f4552.chunk.js": "/Lottomazza-dist/static/js/453.f40f4552.chunk.js",
     "static/media/42dotSans.ttf": "/Lottomazza-dist/static/media/42dotSans.4319544848a93f809325.ttf",
+    "static/media/Lottomazza_Logo_Name_W_2.png": "/Lottomazza-dist/static/media/Lottomazza_Logo_Name_W_2.419d35deebdb26308692.png",
     "index.html": "/Lottomazza-dist/index.html",
-    "main.3e423b6f.css.map": "/Lottomazza-dist/static/css/main.3e423b6f.css.map",
-    "main.bf55fa09.js.map": "/Lottomazza-dist/static/js/main.bf55fa09.js.map",
-    "453.39dbe2b0.chunk.js.map": "/Lottomazza-dist/static/js/453.39dbe2b0.chunk.js.map"
+    "main.9b474f9a.css.map": "/Lottomazza-dist/static/css/main.9b474f9a.css.map",
+    "main.4c29107e.js.map": "/Lottomazza-dist/static/js/main.4c29107e.js.map",
+    "453.f40f4552.chunk.js.map": "/Lottomazza-dist/static/js/453.f40f4552.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e423b6f.css",
-    "static/js/main.bf55fa09.js"
+    "static/css/main.9b474f9a.css",
+    "static/js/main.4c29107e.js"
   ]
 }
